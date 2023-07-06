@@ -1,2 +1,2 @@
-# Image-dehazing
-This is the article for image dehazing.
+# Code for "Zero-shot image dehazing based on transmission map invariance" - image dehazing
+We propose a zero-sample natural image dehazing method that combines image restoration and image dehazing process, which performs well in unsupervised image dehazing. In addition, the images synthesized based on the image degradation network narrows the difference between the synthetic domain and the real domain.
